@@ -1,0 +1,24 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border: 2px solid ;
+  }
+
+  
+  .home{
+    margin-left: 2rem;
+  }
+  .navigations a {
+    display: inline;
+    justify-content: space-around;
+    text-decoration: none;
+    padding: 1.5rem 1rem;
+    color: #222;
+  }
+
+a {
+  text-decoration: none;
+  color: #222;
+}
+
